@@ -1,0 +1,10 @@
+container:
+    build: .
+    #image: udaysh/node.v8
+    labels:
+        - "com.lowecloud.proxy=node.docker"
+    volumes:
+        - "./manifest/config/nginx.conf:/etc/nginx/nginx.conf:ro"
+        - "./manifest/config/supervisord.conf:/etc/supervisor/conf.d/supervisord.conf:ro"
+        - "./app:/app"
+
