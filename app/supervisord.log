@@ -367,3 +367,43 @@
 2018-11-08 17:34:48,560 INFO supervisord started with pid 1
 2018-11-08 17:34:49,563 INFO spawned: 'nginx' with pid 9
 2018-11-08 17:34:49,564 INFO spawned: 'node-app' with pid 10
+2018-11-08 17:34:50,638 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:34:50,638 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:36:57,691 WARN received SIGTERM indicating exit request
+2018-11-08 17:36:57,692 INFO waiting for nginx, node-app to die
+2018-11-08 17:36:57,694 INFO stopped: node-app (terminated by SIGTERM)
+2018-11-08 17:36:57,696 INFO stopped: nginx (exit status 0)
+2018-11-08 17:37:03,162 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:37:03,165 INFO supervisord started with pid 1
+2018-11-08 17:37:04,167 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:37:04,169 INFO spawned: 'node-app' with pid 10
+2018-11-08 17:37:05,240 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:37:05,240 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:38:10,618 WARN received SIGTERM indicating exit request
+2018-11-08 17:38:10,618 INFO waiting for nginx, node-app to die
+2018-11-08 17:38:10,620 INFO stopped: node-app (terminated by SIGTERM)
+2018-11-08 17:38:10,621 INFO stopped: nginx (exit status 0)
+2018-11-08 17:38:16,082 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:38:16,086 INFO supervisord started with pid 1
+2018-11-08 17:38:17,088 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:38:17,091 INFO spawned: 'node-app' with pid 10
+2018-11-08 17:38:18,164 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:38:18,164 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:38:44,972 WARN received SIGTERM indicating exit request
+2018-11-08 17:38:44,973 INFO waiting for nginx, node-app to die
+2018-11-08 17:38:44,974 INFO stopped: node-app (terminated by SIGTERM)
+2018-11-08 17:38:44,976 INFO stopped: nginx (exit status 0)
+2018-11-08 17:38:49,775 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:38:49,780 INFO supervisord started with pid 1
+2018-11-08 17:38:50,784 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:38:50,788 INFO spawned: 'node-app' with pid 10
+2018-11-08 17:38:52,501 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:38:52,501 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:39:37,586 WARN received SIGTERM indicating exit request
+2018-11-08 17:39:37,586 INFO waiting for nginx, node-app to die
+2018-11-08 17:39:37,588 INFO stopped: node-app (terminated by SIGTERM)
+2018-11-08 17:39:37,589 INFO stopped: nginx (exit status 0)
+2018-11-08 17:39:41,453 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:39:41,456 INFO supervisord started with pid 1
+2018-11-08 17:39:42,459 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:39:42,461 INFO spawned: 'node-app' with pid 10
