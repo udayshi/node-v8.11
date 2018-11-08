@@ -284,3 +284,86 @@
 2018-11-08 17:22:24,768 INFO spawned: 'node-app' with pid 10
 2018-11-08 17:22:25,836 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-11-08 17:22:25,836 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:29:54,912 WARN received SIGTERM indicating exit request
+2018-11-08 17:29:54,913 INFO waiting for nginx, node-app to die
+2018-11-08 17:29:54,914 INFO stopped: node-app (terminated by SIGTERM)
+2018-11-08 17:29:54,916 INFO stopped: nginx (exit status 0)
+2018-11-08 17:30:03,516 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:30:03,519 INFO supervisord started with pid 1
+2018-11-08 17:30:04,521 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:30:04,522 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:05,524 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:30:05,524 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:07,528 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:10,978 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:14,989 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:20,000 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:20,000 INFO gave up: node-app entered FATAL state, too many start retries too quickly
+2018-11-08 17:30:30,143 WARN received SIGTERM indicating exit request
+2018-11-08 17:30:30,143 INFO waiting for nginx to die
+2018-11-08 17:30:31,146 INFO stopped: nginx (exit status 0)
+2018-11-08 17:30:37,370 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:30:37,374 INFO supervisord started with pid 1
+2018-11-08 17:30:38,377 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:30:38,377 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:39,380 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:30:39,380 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:42,197 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:45,600 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:49,613 INFO spawnerr: can't find command 'node'
+2018-11-08 17:30:53,500 WARN received SIGTERM indicating exit request
+2018-11-08 17:30:53,500 INFO waiting for nginx to die
+2018-11-08 17:30:54,505 INFO stopped: nginx (exit status 0)
+2018-11-08 17:30:59,719 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:30:59,723 INFO supervisord started with pid 1
+2018-11-08 17:31:00,726 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:31:00,727 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:01,729 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:31:01,730 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:03,732 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:06,740 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:10,744 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:15,756 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:15,756 INFO gave up: node-app entered FATAL state, too many start retries too quickly
+2018-11-08 17:31:18,531 WARN received SIGTERM indicating exit request
+2018-11-08 17:31:18,531 INFO waiting for nginx to die
+2018-11-08 17:31:19,534 INFO stopped: nginx (exit status 0)
+2018-11-08 17:31:52,130 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:31:52,134 INFO supervisord started with pid 1
+2018-11-08 17:31:53,136 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:31:53,139 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:54,139 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:31:54,140 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:56,148 INFO spawnerr: can't find command 'node'
+2018-11-08 17:31:59,159 INFO spawnerr: can't find command 'node'
+2018-11-08 17:32:01,994 WARN received SIGTERM indicating exit request
+2018-11-08 17:32:01,994 INFO waiting for nginx to die
+2018-11-08 17:32:02,999 INFO stopped: nginx (exit status 0)
+2018-11-08 17:33:19,556 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:33:19,560 INFO supervisord started with pid 1
+2018-11-08 17:33:20,563 INFO spawned: 'nginx' with pid 8
+2018-11-08 17:33:20,564 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:21,569 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:33:21,569 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:23,578 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:25,153 WARN received SIGTERM indicating exit request
+2018-11-08 17:33:25,154 INFO waiting for nginx to die
+2018-11-08 17:33:26,158 INFO stopped: nginx (exit status 0)
+2018-11-08 17:33:31,534 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:33:31,537 INFO supervisord started with pid 1
+2018-11-08 17:33:32,543 INFO spawned: 'nginx' with pid 8
+2018-11-08 17:33:32,544 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:33,546 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:33:33,547 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:35,556 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:38,561 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:42,567 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:47,583 INFO spawnerr: can't find command 'node'
+2018-11-08 17:33:47,584 INFO gave up: node-app entered FATAL state, too many start retries too quickly
+2018-11-08 17:34:41,352 WARN received SIGTERM indicating exit request
+2018-11-08 17:34:41,353 INFO waiting for nginx to die
+2018-11-08 17:34:42,356 INFO stopped: nginx (exit status 0)
+2018-11-08 17:34:48,558 CRIT Supervisor running as root (no user in config file)
+2018-11-08 17:34:48,560 INFO supervisord started with pid 1
+2018-11-08 17:34:49,563 INFO spawned: 'nginx' with pid 9
+2018-11-08 17:34:49,564 INFO spawned: 'node-app' with pid 10

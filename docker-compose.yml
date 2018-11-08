@@ -1,6 +1,6 @@
 container:
-    build: .
-    #image: udaysh/node.v8
+    #build: .
+    image: udaysh/node.v8
     labels:
         - "com.lowecloud.proxy=node.docker"
     volumes:
