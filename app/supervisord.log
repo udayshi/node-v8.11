@@ -407,3 +407,5 @@
 2018-11-08 17:39:41,456 INFO supervisord started with pid 1
 2018-11-08 17:39:42,459 INFO spawned: 'nginx' with pid 9
 2018-11-08 17:39:42,461 INFO spawned: 'node-app' with pid 10
+2018-11-08 17:39:43,535 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-11-08 17:39:43,535 INFO success: node-app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
